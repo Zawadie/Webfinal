@@ -22,5 +22,5 @@ and One css style sheet
 How to View the Website:
 To view the website locally on your computer:
 Download or Clone this repository.
-Open the animal_discovery_main.html file in your preferred web browser. You can do this by double-clicking the file or right-clicking and selecting Open with [browser name].
+Open the animal_discovery_main.html file in your preferred web browser. You can do this by double-clicking the file or right-clicking and selecting Open with.
 Use the navigation bar to explore the Categories, Videos, and Sponsored pages.
