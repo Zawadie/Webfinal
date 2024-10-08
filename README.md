@@ -20,7 +20,8 @@ promo.html: The sponsored content page where businesses can advertise products r
 and One css style sheet 
 
 How to View the Website:
-To view the website locally on your computer:
-Download or Clone this repository.
+To view the website locally on your computer you can use the link below 
+(https://zawadie.github.io/Webfinal/animal%20discovery%20main.html) or 
+Clone this repository.
 Open the animal_discovery_main.html file in your preferred web browser. You can do this by double-clicking the file or right-clicking and selecting Open with.
-Use the navigation bar to explore the Categories, Videos, and Sponsored pages.
+Use the navigation bar to explore the Categories, Videos, and Sponsored pages.Or prefferebly use the link: 
